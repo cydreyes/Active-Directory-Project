@@ -6,7 +6,6 @@ This project establishes a virtualized environment using Oracle VM VirtualBox, i
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Virtualization: Configured and managed virtual machines (Windows 10, Kali Linux, Windows Server, Ubuntu Server) using Oracle VM VirtualBox.
 - Network Configuration: Assigned IP addresses, implemented NAT Networks, and troubleshot connectivity issues (ping tests, DNS resolution).
@@ -17,7 +16,7 @@ This project establishes a virtualized environment using Oracle VM VirtualBox, i
 - Active Directory Administration: Joined Windows machines to a domain and configured domain-based authentication.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - Oracle VM VirtualBox Manager – Creates and manages virtual machines (VMs).
 - Splunk Server – Analyzes and monitors security logs.
