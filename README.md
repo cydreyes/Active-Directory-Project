@@ -33,5 +33,5 @@ This project establishes a virtualized environment using Oracle VM VirtualBox, i
 ## Network Topology
 
 
-![Diagram](https://github.com/user-attachments/assets/39e22a7a-1fbc-417c-9b4d-d78c57aa1eea)
+![Screenshot 2025-03-11 204536](https://github.com/user-attachments/assets/41a435aa-9064-4ea6-a250-9ae66be5447f)
 
