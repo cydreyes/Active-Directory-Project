@@ -19,6 +19,7 @@ In the Windows Server VM, I used Active Directory services and created a domain 
 I created Organizational units called **"HR"** and **"IT"**. For HR, I created two users **Lebron James** and **Terry Smith**. For IT, I created three users **Jenny Smith, Kobe Bryant,** and **Michael Jordan**. 
 ![AD2](https://github.com/user-attachments/assets/0448febc-dfc4-49ee-ae2c-cec02ff3b195)
 
+### Remote Desktop
 I gave all users permission to **RDP** to the Windows 10 workstation. 
 
 ![rdp](https://github.com/user-attachments/assets/c4d554fe-3a6b-40f8-9ce1-e7bd0f18c280)
