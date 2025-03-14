@@ -1,4 +1,5 @@
-# Active Driectory Project
+# Active Directory Project
+Special thanks to **MyDFIR** for the tutorial for this project. https://www.youtube.com/@MyDFIR
 
 ## Objective
 
